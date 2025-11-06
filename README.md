@@ -1,2 +1,8 @@
-# ArturoAstorga-CYBR-Portfolio
-Portfolio containing cybersecurity course assignments demonstrating risk analysis, audit development, governance planning, and secure system design.
+# Cybersecurity Portfolio
+
+This repository showcases my cybersecurity coursework and projects, demonstrating skills in GRC, security auditing, and risk management.
+
+## Included Work
+- Risk Management Plan
+- Information Security Audit Program
+- Policy + Governance Documentation
